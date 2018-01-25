@@ -24,5 +24,6 @@ while i <= len(b):
     print (b[i])
     i = i + 1
 
-c = add(1,2)
+c = sub(3,1)
 print(c)
+
