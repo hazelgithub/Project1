@@ -5,3 +5,4 @@ Number,name,Company
 4,Nitesh,CapGemini
 5,Sangeeta,Wipro
 6,Aditya,CapGemini
+7,Amit,TataSteel
